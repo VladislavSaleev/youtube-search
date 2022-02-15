@@ -9,9 +9,9 @@ axios: https://axios-http.com/docs/intro
 Element UI: https://element.eleme.io/
 ```
 
-### Для входа используйте связку логин-пароль:
-### 1) admin-admin
-### 2) user-user
+#### Для входа используйте связку логин-пароль:
+- admin-admin
+- user-user
 
 >Также для использования проекта необходим Youtube API key
 >Как достать и подробности тут: https://developers.google.com/youtube/v3/getting-started
