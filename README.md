@@ -13,7 +13,8 @@ Element UI: https://element.eleme.io/
 - admin-admin
 - user-user
 
->Также для использования проекта необходим Youtube API key
->Как достать и подробности тут: https://developers.google.com/youtube/v3/getting-started
+> Также для использования проекта необходим Youtube API key
+> Как достать и подробности тут:
+> https://developers.google.com/youtube/v3/getting-started
 
 P.S. пока что некорректно отображается на устройствах с маленьким экраном, в будущем исправлю
