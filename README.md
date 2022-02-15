@@ -1,24 +1,14 @@
-# youtube-search
+## youtube-search
 
-## Project setup
+### Используемые модули:
+```sh
+vue himself: https://vuejs.org/
+vue router: https://router.vuejs.org/
+vuex: https://vuex.vuejs.org/
+axios: https://axios-http.com/docs/intro
+Element UI: https://element.eleme.io/
 ```
-npm install
-```
+>Для использования проекта необходим Youtube API key
+>Как достать и подробности тут: https://developers.google.com/youtube/v3/getting-started
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+P.S. пока что некорректно отображается на устройствах с маленьким экраном, в будущем исправлю
