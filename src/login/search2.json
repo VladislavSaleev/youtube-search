@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cg18DPOMofZb-oqPibo1_sk7zkA",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "RU",
+  "pageInfo": {
+    "totalResults": 173304,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hJswux7NpaL6KxgvWP-jdGytmIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x-7JNaOlBgE"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-16T16:29:15Z",
+        "channelId": "UCI0SXul9N_rIb47qZt2Nd-Q",
+        "title": "Лучшая гирлянда своими руками",
+        "description": "Всем привет в этом видео я покажу как сделать своими руками очень простую и классную светодиодную гирлянду,,,, длина ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-7JNaOlBgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-7JNaOlBgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-7JNaOlBgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Name TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-16T16:29:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-vX7e5jljRGxlCn6IgOe2pO4OvU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QyCtY5KTmuo"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-23T16:27:17Z",
+        "channelId": "UC1HGbQuq3zNGwRu7uD-m-zQ",
+        "title": "ПРОСТАЯ ГИРЛЯНДА из БУМАГИ своими руками НОВОГОДНИЕ ПОДЕЛКИ НОВОГОДНИЙ ДЕКОР / DIY PAPER GARLAND",
+        "description": "Бюджетный Новогодний и Рождественский декор 2021 своими руками! Сделаем гирлянду из цветной бумаги своими ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QyCtY5KTmuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QyCtY5KTmuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QyCtY5KTmuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DIY Crafts Planet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-23T16:27:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZrxBK1S9Ki784ACcFdtM69lZ0fY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_c-OwAAQoIc"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-10T12:00:30Z",
+        "channelId": "UCq1JpGFxcZTbbOAz010U-og",
+        "title": "Как сделать гирлянду своими руками",
+        "description": "Как сделать гирлянды своими руками? Наш новый интерьерный мастер-класс продемонстрирует вам из чего можно ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_c-OwAAQoIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_c-OwAAQoIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_c-OwAAQoIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Трум Трум",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-10T12:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gl1Zjd6fi55bzjX_qnEhjANnQe0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ARssRXDqt-M"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-05T12:26:57Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "💖 Как сделать ГИРЛЯНДУ ИЗ СЕРДЕЧЕК своими руками из бумаги а4",
+        "description": "Как сделать своими руками гирлянду из сердечек. Поделка предназначена для украшения комнаты на день святого ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ARssRXDqt-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ARssRXDqt-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ARssRXDqt-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-05T12:26:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-9h5f7KcC-_QZfTra1J_Mr46NA4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S_tpoZjNRpE"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-31T07:41:07Z",
+        "channelId": "UCBj7L4jYB4BYJblByEwyRMA",
+        "title": "Светодиодная гирлянда своими руками",
+        "description": "В этом видео показано, как сделать разноцветную светодиодную гирлянду своими руками! Нам будут нужны: 1) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S_tpoZjNRpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S_tpoZjNRpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_tpoZjNRpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Иван Минеев",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-31T07:41:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d56QRmhMgn8JzXWJIbINJl8gtHw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dz1usVTpLGQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-09T15:00:01Z",
+        "channelId": "UCGSDJpG1YyXuOZ5lnt68LiA",
+        "title": "20 ПРОСТЫХ И БЫСТРЫХ ПОДЕЛОК ИЗ БУМАГИ",
+        "description": "ДЕТСКИЕ КРАФТЫ С БУМАГОЙ И КАРТОНОМ Не знаете, чем заняться этим вечером? Как насчет пары-тройки классных ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dz1usVTpLGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dz1usVTpLGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dz1usVTpLGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "БЕРИ И ДЕЛАЙ – Дети",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-09T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-bem8z0JAwHtY7HkDkQo91kqR60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8DqzwKrcA-w"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-19T09:32:15Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "⛄ Как сделать ГИРЛЯНДУ ИЗ СНЕГОВИКОВ НА НОВЫЙ ГОД своими руками из бумаги А4",
+        "description": "Как сделать своими руками на Новый Год гирлянду с снеговиками из бумаги а4. *************** Вы задаетесь вопросом, \"Как ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8DqzwKrcA-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8DqzwKrcA-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8DqzwKrcA-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-19T09:32:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1sN29vWa4DN-Qs6rMKX_c_CWYMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WWwifWSWNjo"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-19T05:00:00Z",
+        "channelId": "UCfUNn0nNcM35FBKL11tB1Iw",
+        "title": "Как сделать гирлянду из бумаги. Гирлянда из бумаги",
+        "description": "Узнайте как просто сделать широкую и красивую гирлянду из бумаги а4. CashGo тренажер для ума ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WWwifWSWNjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WWwifWSWNjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WWwifWSWNjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Origami Streets",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-19T05:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AS37UUnr9z2ZyEYKtCnkg9WKgjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZG7p_PCqOsQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-05T17:16:37Z",
+        "channelId": "UCWmQOibXsTw7YKG2jZo7URg",
+        "title": "Как легко и быстро сделать гирлянду из елок [Новогодние поделки]",
+        "description": "Вы только посмотрите, какую красивую гирлянду из ёлок мы с Вами можем сделать своими руками из бумаги А4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZG7p_PCqOsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZG7p_PCqOsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZG7p_PCqOsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ОРИГАМИ И НЕ ТОЛЬКО",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-05T17:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9MXpb9DUTrdrbIzQY3NB2vxoEjU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xCUwnNwA3Fs"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-14T10:30:42Z",
+        "channelId": "UCGs-svxV4NZa1j96fTZiCGQ",
+        "title": "Как сделать простую мигалку для гирлянды своими руками / How to make your own hands flasher",
+        "description": "Купить мигалки можно тут▻http://ali.pub/1934tp ○Гирлянда на батарейках тут▻http://ali.pub/qnymh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCUwnNwA3Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCUwnNwA3Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCUwnNwA3Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DIY ENERGY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-14T10:30:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F579xZjtED8615Za7CIzmeJKbzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2t1WjGfOacQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-22T17:32:06Z",
+        "channelId": "UC5ULDV816GiEvfgvrC4hNsg",
+        "title": "ГИРЛЯНДА своими руками. Как сделать новогоднюю гирлянду из бумаги.",
+        "description": "Гирлянда из бумаги - красивое новогоднее украшение. В этом видео мы научим вас, как сделать красивую гирлянду из ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2t1WjGfOacQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2t1WjGfOacQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2t1WjGfOacQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Оригами - Своими Руками",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-22T17:32:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0g8qrJ0Q7kmHMmg0-mtLSWc_0L8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4t2gLu__Tf8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-27T16:09:36Z",
+        "channelId": "UCyoytjvCJO3ozxDuCSgL1eg",
+        "title": "Гирлянда Сердечки из бумаги своими руками на День Святого Валентина | How to make Paper Heart Chain",
+        "description": "Гирлянда Сердечки из бумаги своими руками на День Святого Валентина | How to make Paper Heart Chain Сегодня мы ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4t2gLu__Tf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4t2gLu__Tf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4t2gLu__Tf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KrasOlka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-27T16:09:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YBnbSBQWl2ND8NV9BjO8R_0vapg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dWy8XBjApjE"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-26T12:16:42Z",
+        "channelId": "UCWmQOibXsTw7YKG2jZo7URg",
+        "title": "Как легко и быстро сделать гирлянду Снеговики [Новогодние поделки]",
+        "description": "Вы только посмотрите, какую красивую гирлянду из снеговиков мы с Вами можем сделать своими руками из бумаги А4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dWy8XBjApjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dWy8XBjApjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dWy8XBjApjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ОРИГАМИ И НЕ ТОЛЬКО",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-26T12:16:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NKryf5caubeQfcz8mTm1uF6BGnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l6_V4UuqmZM"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-26T13:43:04Z",
+        "channelId": "UCFG4S_UMLFzqz6Rmm_yO2Hg",
+        "title": "Как сделать самодельную мини гирлянду",
+        "description": "Почта для сотрудничества - svatikap100@gmail.com ------------------------------------ Мои ссылки: Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l6_V4UuqmZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l6_V4UuqmZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l6_V4UuqmZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SYAVKA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-26T13:43:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jwB0NxyHRxShmVkiiN_wuzmBE0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nZYYkbq_JFg"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-23T15:17:18Z",
+        "channelId": "UCgtAOyEQdAyjvm9ATCi_Aig",
+        "title": "🌟Такую гирлянду не купить в магазине! v2",
+        "description": "Сегодня попробуем сделать очень крутую гирлянду на Arduino и адресных светодиодах! Вас ждут красочные ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZYYkbq_JFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZYYkbq_JFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZYYkbq_JFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AlexGyver",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-23T15:17:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yol1_xKCA-1GTlxG1-fHXZJlHVU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "27-6j6NRb9s"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-14T19:04:49Z",
+        "channelId": "UCokFmTKOjT9Xl-gddobWfqw",
+        "title": "Ретро гирлянда из ламп накаливания своими руками",
+        "description": "Ретро гирлянда из ламп накаливания своими руками. - Провод ПВ 1 х 0.75 - Диммер - Патроны карболовые Е12 - Е14 в ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27-6j6NRb9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27-6j6NRb9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27-6j6NRb9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Маниф ТВ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-14T19:04:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J2zmape_7ZM6wtvkGuMQGGdJvWk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7KZd5vo5vM0"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-08T10:16:43Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "✨ Как сделать ГИРЛЯНДУ ИЗ ЗВЕЗДОЧЕК НА РОЖДЕСТВО своими руками из бумаги а4",
+        "description": "Как сделать своими руками бумажную гирлянду с рождественскими звездочками. *************** Что сделать на Рождество?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7KZd5vo5vM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7KZd5vo5vM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7KZd5vo5vM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-08T10:16:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vyskyBJSZ5BpcEvWMrIFrMsnOpo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TY4MYC4LaL4"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-25T05:31:31Z",
+        "channelId": "UCtoq4YpS8OYRDP3-21OGwHw",
+        "title": "💥 КАК ЗАСТАВИТЬ ГИРЛЯНДУ МИГАТЬ ✔️ Очень Просто =)",
+        "description": "Простейший способ заставить елочную гирлянду работающую от батареек мигать =) Проще не бывает!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TY4MYC4LaL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TY4MYC4LaL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TY4MYC4LaL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ДокторCXEM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-25T05:31:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Zi7GcuK5F6fH9_Y0lXuyXUUU-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KsAQDXtUVjs"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-21T08:41:39Z",
+        "channelId": "UCqL7hxHz6YKX7UcZnKTyuzw",
+        "title": "Бумажные гирлянды [Идеи для жизни]",
+        "description": "Для того чтобы создать неповторимую атмосферу на вашей вечеринке необходимо добавить в нее стильных деталей.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KsAQDXtUVjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KsAQDXtUVjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KsAQDXtUVjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Идеи для жизни",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-21T08:41:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WaDyVDz1SSfxvjtyuoywUYs6yMk",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLXduUOjg47IzimGqSA7Z2t1nc2cErA0LT"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T16:25:28Z",
+        "channelId": "UCv_K9ik4ZyBoz54aJWsXPhQ",
+        "title": "самодельная гирлянда",
+        "description": "самодельная гирлянда. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Анастасия Гоголева",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T16:25:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8DeX7jeSOr3lerlpj1tupveZUJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9BD_EZDcutg"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-22T12:06:15Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "🎄 Как сделать гирлянду ЁЛОЧКИ своими руками из бумаги А4?",
+        "description": "Как сделать горизонтальную гирлянду из одинаковых ёлок своими руками для праздничного украшения на Новый год.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9BD_EZDcutg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9BD_EZDcutg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9BD_EZDcutg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-22T12:06:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xClQ2xx4vzIzDjSb9JggyWct9ss",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLpDpQU33MtlCpKcfNsQVihQA5K58y1wv7"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T14:06:37Z",
+        "channelId": "UCB2S-QFqDvjh3-jKLSwWAZA",
+        "title": "как сделать гирлянду мигающей",
+        "description": "как сделать гирлянду мигающей. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Василий Птичкин",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T14:06:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j6owsUvvRZR1XdgPXu3hFK6gdyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DMXaXRCsSh8"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-28T14:00:10Z",
+        "channelId": "UCP_Jf6RvUfn7_VtwlakxA6A",
+        "title": "🔌 Батарейка вместо Розетки ⚡⚡⚡ А я круче Китайских Шопов ⚒️",
+        "description": "Супер Схема! Елочную гирлянду на 220 вольт зажигаю от пальчиковой батарейки ! Конкуренты курят желтый снег ! #Схема ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DMXaXRCsSh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DMXaXRCsSh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DMXaXRCsSh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Дмитрий Компанец",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-28T14:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HsBzY6wb1S4wFoFu_a4-TCnQ0dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MgRmiXxYL5g"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-29T10:00:01Z",
+        "channelId": "UCgtAOyEQdAyjvm9ATCi_Aig",
+        "title": "🌟Такую гирлянду не купить в магазине!",
+        "description": "Сегодня сделаем своими руками крутейшую гирлянду на окно с множеством режимов, управлением со смартфона и даже ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgRmiXxYL5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgRmiXxYL5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgRmiXxYL5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AlexGyver",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-29T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dS7Zu8x_Kp2TB_1GL5Yf-somAtk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AJWUiVXjIAg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-05T07:15:01Z",
+        "channelId": "UCeXsurazM_m2soeUdwKyMiA",
+        "title": "❄Оригами гирлянда из бумаги своими руками❄Как сделать гирлянду ёлочки на Новый год❄Шаблоны гирлянды",
+        "description": "Привет! Оригами гирлянда из бумаги своими руками - это просто класс! А как сделать гирлянду ёлочки + шаблоны ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJWUiVXjIAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJWUiVXjIAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJWUiVXjIAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lissa Craft. КрафтЭлика. Легкие поделки самоделки",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-05T07:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WADrbs-G0hgxNQjykOiHOGf8mv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YGD9AV68IdQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-17T09:30:01Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "❄️ Как сделать ГИРЛЯНДУ ИЗ СНЕЖИНОК НА НОВЫЙ ГОД своими руками из бумаги А4",
+        "description": "Как сделать своими руками гирлянду из снежинок на Новый год 2019, все делается в домашних условиях из бумаги а4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YGD9AV68IdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YGD9AV68IdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YGD9AV68IdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-17T09:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "il6c-y5lG2oQPzI0WJXHK24FpjY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zpBZ6thAfII"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-23T09:15:00Z",
+        "channelId": "UCpKXi9tvEj59s6x_tx3jnxQ",
+        "title": "Гирлянда за 5 мин на Хэллоуин. Просто! Декор на Halloween )",
+        "description": "Простая в исполнении гирлянда на Хэллоуин. Класная идея декора из обычной цветной бумаги. Можете оформить этими ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpBZ6thAfII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpBZ6thAfII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpBZ6thAfII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЭмиФэмили DIY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-23T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "enYCS3y5X80JMITuA6wOlcy44pg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DLsZi-Rjn70"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-21T12:27:50Z",
+        "channelId": "UCnJKcwKni592ZPwz4a0Zpug",
+        "title": "Как сделать гирлянду из бумаги | Красивая гирлянда своими руками",
+        "description": "Как сделать гирлянду из бумаги. Идея по изготовлению красивой гирлянды. Из видео вы узнаете как сделать гирлянду из ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DLsZi-Rjn70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DLsZi-Rjn70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DLsZi-Rjn70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "idea boom",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-21T12:27:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4zQugaIN-OI2oYdicOUmtNytGa4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dxpD80LA-uc"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-07T15:01:41Z",
+        "channelId": "UCqt-vQn6S7ESgb66BqZd-Yg",
+        "title": "КРАСИВАЯ ГИРЛЯНДА ИЗ БУМАГИ СВОИМИ РУКАМИ. УКРАШЕНИЕ ДЛЯ ЕЛКИ",
+        "description": "Как сделать гирлянду из бумаги подробная инструкция. Подойдет для любого праздника, Нового года, дня рождения.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dxpD80LA-uc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dxpD80LA-uc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dxpD80LA-uc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Оригами из бумаги",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-07T15:01:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4CFTDWCpkknq697QLTiqONpP7jM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2aiX5SqaUg0"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-13T12:37:58Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "DIY ❤️ БУМАЖНАЯ ГИРЛЯНДА С СЕРДЕЧЕК своими руками",
+        "description": "Как сделать горизонтальную гирлянду из сердечек своими руками для украшения на свадьбу или день святого Валентина.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2aiX5SqaUg0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2aiX5SqaUg0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2aiX5SqaUg0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-13T12:37:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AyzK7l4HGiYu6EVRi77B68bpaes",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jBq1z3xo6_M"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-23T11:19:42Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "👻👻👻 ГИРЛЯНДА НА ХЭЛЛОУИН С ПРИВИДЕНИЯМИ  своими руками из бумаги А4",
+        "description": "Как сделать гирлянду для Хэллоуина с призраков из бумаги А4. Такая поделка предназначена для декора и украшения ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jBq1z3xo6_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jBq1z3xo6_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jBq1z3xo6_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-23T11:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B3Ag6K5grlLpStnFdeSSfU_2q34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b_NmIPtq3Yw"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-28T05:00:01Z",
+        "channelId": "UCRGA8-8wTpRgGXtd95bkBgQ",
+        "title": "6 ГИРЛЯНД ИЗ БУМАГИ Своими руками на Новый Год 2020 Поделки Самоделки",
+        "description": "Привет сегодня на канале Поделки Самоделки мы сделаем 6 классных гирлянд из Бумаги на новый год своими руками для ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b_NmIPtq3Yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b_NmIPtq3Yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b_NmIPtq3Yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Поделки Самоделки",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-28T05:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4tpkbbNAd2FjU1XjCTZoRt2Hr3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WsSDppPdsus"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-24T15:17:36Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "Как сделать ГИРЛЯНДУ С ЗВЕЗДОЧЕК из бумаги А4 своими руками?",
+        "description": "Как сделать горизонтальную гирлянду из звезд (пятиконечных звездочек) с листка бумаги формата А4. Она отлично ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WsSDppPdsus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WsSDppPdsus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WsSDppPdsus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-24T15:17:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S4OVtO1mVYQMcOiZoU6jRQo1zBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vRBGAdN9Oks"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-08T13:11:21Z",
+        "channelId": "UC5KS-ThMuWmaxGst9_7tUKQ",
+        "title": "❤️ DIY: ГИРЛЯНДА своими руками. Как сделать новогоднюю гирлянду ❤️",
+        "description": "Создаем гирлянду своими руками. Очень легкий и простой мастер-класс для всех любителей полимерной глины! Ставьте ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRBGAdN9Oks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRBGAdN9Oks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRBGAdN9Oks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rusalina - лепка из полимерной глины",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-08T13:11:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m46Od1b7DgiVv8WBIvmZhCZiBIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PlhZiB-5R6g"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-18T09:03:41Z",
+        "channelId": "UCt8OnrmeXDCSgk7WGdbIxbg",
+        "title": "5 СХЕМ НА НОВЫЙ ГОД ДЛЯ РАДИОЛЮБИТЕЛЕЙ СВОИМИ РУКАМИ",
+        "description": "Скидки на платы на PCBWay: https://www.pcbway.com/activity/christmascoupons.aspx. Гирлянда на 21 эффект: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PlhZiB-5R6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PlhZiB-5R6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PlhZiB-5R6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Радиолюбитель TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-18T09:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lopD6BabCty0rqmfQgEHQLpsfBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nZxp0ut5T1M"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-30T17:12:15Z",
+        "channelId": "UCMHJ9OnXa09JCvgxbYrytqQ",
+        "title": "КАК СДЕЛАТЬ НОВОГОДНЮЮ ГИРЛЯНДУ ИЗ БУМАЖНЫХ САЛФЕТОК  своими руками.",
+        "description": "_____Новогоднюю гирлянду своими руками можно сделать из салфеток Сделать гирлянду из разноцветных салфеток ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZxp0ut5T1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZxp0ut5T1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZxp0ut5T1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lubov Kriuk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-30T17:12:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RPDCp9HdOf9VYfNozjne5o5D8Rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5qZ3LyPCNco"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-28T19:18:31Z",
+        "channelId": "UCI9DPFkvdMsQFAIxYXLP_AA",
+        "title": "Поделки Для Дома. Как Быстро Сделать Гирлянды Из Бумаги Своими Руками. DIY Paper Decoration",
+        "description": "Всего за 7минут можно сделать эффектные новогодние гирлянды из бумаги своими руками. Понадобится несколько ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5qZ3LyPCNco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5qZ3LyPCNco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5qZ3LyPCNco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Галина Иванова",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-28T19:18:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y_d40VNt2LhkjzkEdbPT3tYRIOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RpKA8NDPas8"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-29T05:40:38Z",
+        "channelId": "UCP_Jf6RvUfn7_VtwlakxA6A",
+        "title": "🎄 КАРМАННАЯ РОЗЕТКА 🎄 ДЛЯ ЕЛОЧНОЙ ГИРЛЯНДЫ в 220в  ❤",
+        "description": "ЗАСВЕТИМ ГИРЛЯНДУ ОТ ТРЁХ БАТАРЕЕК ? Как думаете - получится ? СМОТРИТЕ - Включить елочную гирлянду 220 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RpKA8NDPas8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RpKA8NDPas8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RpKA8NDPas8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Дмитрий Компанец",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-29T05:40:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jZ7bjAlvZ9Id7JYMeh_CU_pEsJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DhijwAPZTkA"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-07T12:24:11Z",
+        "channelId": "UCyZAR7brscqq_-Y2L6lKFBg",
+        "title": "DIY Гирлянда Звезды Счастья. Украшение Декор Поделки на Новый год из бумаги.",
+        "description": "DIY Гирлянда Звезды Счастья. Украшение Декор Поделки на Новый год из бумаги.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DhijwAPZTkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DhijwAPZTkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DhijwAPZTkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Таисия Череватова",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-07T12:24:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q64Yv6FanQr18Q_yVLnXQDIz2RU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1HKvvPoToCk"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-11T08:14:40Z",
+        "channelId": "UCsGZuIbqYS8zoxEMsAIYY9A",
+        "title": "Простейшая &quot;мигалка&quot; для гирлянды. Маленькие хитрости 13",
+        "description": "Мигалка на стартере Дополнения и разъяснения к роликам на канале ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1HKvvPoToCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1HKvvPoToCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1HKvvPoToCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Юность Ru",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-11T08:14:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bhr8XVPRs1GCPZ5chMSc3mFbOXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DvR0E9Tj2AA"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-23T06:00:06Z",
+        "channelId": "UCfUNn0nNcM35FBKL11tB1Iw",
+        "title": "Как сделать гирлянду из бумаги",
+        "description": "В этом видео я покажу как сделать гирлянду из бумаги. Нам понадобится цветная бумага формата А4, ножницы и клей.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DvR0E9Tj2AA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DvR0E9Tj2AA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DvR0E9Tj2AA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Origami Streets",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-23T06:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "azAjUMAOQEAd42Bb2oPhE3JaIIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "57Do7qVPHCw"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T13:17:45Z",
+        "channelId": "UCnJKcwKni592ZPwz4a0Zpug",
+        "title": "Как сделать красивую гирлянду из бумаги | DIY украшение для праздника",
+        "description": "Идея по изготовлению красивой гирлянды из цветной бумаги, очень быстро, из доступных материалов. Спасибо за ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57Do7qVPHCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57Do7qVPHCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57Do7qVPHCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "idea boom",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T13:17:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yqam1VE20Bdv1OuOlssnYMDuZGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E0_ixyIftPc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-25T11:45:58Z",
+        "channelId": "UCW77gCh6SPZKJa8QrxpfpNw",
+        "title": "Как сделать оригинальную светодиодную гирлянду своими руками на адресных светодиодах WS2812b..",
+        "description": "Пошаговая инструкция по сборке светодиодной гирлянды. В прикреплённых файлах http://catcut.net/jlBO присутствует ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E0_ixyIftPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E0_ixyIftPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0_ixyIftPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alexey Zagrekov",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-25T11:45:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dJHjpbJNb62x3RUBXIW1BYYBw28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P_mG0Ur2Rcc"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T13:01:36Z",
+        "channelId": "UCKQDO1lOfjYMV89M6i5srpw",
+        "title": "Как сделать мигающую гирлянду? Занимательная физика.",
+        "description": "Скоро – Новый год! Праздник! А какой праздник обойдется без мигающей гирлянды лампочек! Сегодня мы сделаем ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_mG0Ur2Rcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Неизвестная Физика",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T13:01:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8pVa-OwDrGKs5NUjWoVmBfFvrX4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1G-lEh5mbCQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-15T13:08:56Z",
+        "channelId": "UCymHBLxTxCcMeu5RfsjeVHQ",
+        "title": "Как сделать Гирлянду из бумаги ❄ Поделки на Новый Год своими руками",
+        "description": "Как сделать гирлянду из бумаги на Новый Год своими руками. Гирлянда собирается из цветных квадратных листов бумаги.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1G-lEh5mbCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1G-lEh5mbCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1G-lEh5mbCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GameJulia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-15T13:08:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VsZ2dUdf9GsjlvEvAQEiBoB5SPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FtG0gJo_CVg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-08T07:15:00Z",
+        "channelId": "UCeXsurazM_m2soeUdwKyMiA",
+        "title": "❄Новогодняя гирлянда из бумаги своими❄ Как сделать гирлянду снеговики на Новый год ❄Шаблоны гирлянды",
+        "description": "Привет! Новогодняя гирлянда из бумаги своими руками - это просто класс! А как сделать оригами гирлянду снеговики + ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtG0gJo_CVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtG0gJo_CVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtG0gJo_CVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lissa Craft. КрафтЭлика. Легкие поделки самоделки",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-08T07:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lwqJ83Cbg2KL2EZlsWSxTLt0DtE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nAfTxnJ6OK4"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-11T12:00:12Z",
+        "channelId": "UCRmGjy5zm_r1E5cOBVaMwbg",
+        "title": "Снежинка из бумаги объемная своими руками. Как сделать новогоднюю гирлянду из бумаги",
+        "description": "Каждый новый год мы задумываемся как украсить свою елку. Лучший способ это сделать - это снежинка из бумаги, которую ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nAfTxnJ6OK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nAfTxnJ6OK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nAfTxnJ6OK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kids Party TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-11T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uVEHSzRncGDKGozUhLh-4zq3a9A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BHGEix_9z7s"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-02T13:10:01Z",
+        "channelId": "UCWqcfwUxk9a7qGqt7892FFA",
+        "title": "DIY - Как сделать ГИРЛЯНДУ ИЗ ФЛАЖКОВ своими руками из бумаги А4?",
+        "description": "Инструкция, как сделать бумажную гирлянду из флажков. Это отличное решение для того, чтобы самостоятельно украсить ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BHGEix_9z7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BHGEix_9z7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BHGEix_9z7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ЮКА ДИАЙВАЙка",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-02T13:10:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zRzPRU0sTFWgU2kxTlBGFNqbeD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yE-Ps1J6vBE"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-23T06:47:06Z",
+        "channelId": "UC1HGbQuq3zNGwRu7uD-m-zQ",
+        "title": "DIY: Paper garland for Christmas and New Year / Новогодняя ГИРЛЯНДА  из бумаги своими руками 2020",
+        "description": "Бюджетный Новогодний и Рождественский #декор #2020 своими руками! Делаем #гирлянду в стиле #водопад из цветной ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yE-Ps1J6vBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yE-Ps1J6vBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yE-Ps1J6vBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DIY Crafts Planet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-23T06:47:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y97hIP7zLUb-TsJ8_V9HpCm6ihg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UU-4RIQ0rVw"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-18T15:39:24Z",
+        "channelId": "UClGFZLI8b56Uo_YKJxcxfJQ",
+        "title": "Как сделать гирлянду Елочки своими руками из бумаги А4 / Новогодние самоделки / Sekretmastera",
+        "description": "Как сделать гирлянду Елочки своими руками из бумаги. Новогодние самоделки от Sekretmastera. Гирлянда из бумаги ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UU-4RIQ0rVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UU-4RIQ0rVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UU-4RIQ0rVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sekretmastera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-18T15:39:24Z"
+      }
+    }
+  ]
+}
