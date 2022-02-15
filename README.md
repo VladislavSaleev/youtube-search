@@ -1,4 +1,6 @@
 ## youtube-search
+### https://vladislavsaleev.github.io/youtube-search/
+----
 
 ### Используемые модули:
 ```sh
@@ -8,6 +10,7 @@ vuex: https://vuex.vuejs.org/
 axios: https://axios-http.com/docs/intro
 Element UI: https://element.eleme.io/
 ```
+----
 
 #### Для входа используйте связку логин-пароль:
 - admin-admin
