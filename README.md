@@ -8,7 +8,12 @@ vuex: https://vuex.vuejs.org/
 axios: https://axios-http.com/docs/intro
 Element UI: https://element.eleme.io/
 ```
->Для использования проекта необходим Youtube API key
+
+### Для входа используйте связку логин-пароль:
+###1) admin-admin
+###2) user-user
+
+>Также для использования проекта необходим Youtube API key
 >Как достать и подробности тут: https://developers.google.com/youtube/v3/getting-started
 
 P.S. пока что некорректно отображается на устройствах с маленьким экраном, в будущем исправлю
