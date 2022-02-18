@@ -16,20 +16,24 @@
 </template>
 
 <script>
-import { mapMutations } from "vuex";
+import { mapState, mapMutations } from "vuex";
 export default {
-  data() {
-    return {
-      activeIndex: "1",
-      activeIndex2: "1",
-    };
-  },
   methods: {
     ...mapMutations(["loginOut"]),
     logout() {
-      this.loginOut();
-      this.$router.push("/");
+      if (this.currentUser) {
+        this.loginOut();
+        this.$message("Выход из аккаунта, ждем Вас снова :)");
+        this.$router.push("/");
+      } else {
+        this.$message("А кто хочет выйти?");
+      }
     },
+  },
+  computed: {
+    ...mapState({
+      currentUser: (state) => state.currentUser,
+    }),
   },
 };
 </script>

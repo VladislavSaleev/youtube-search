@@ -95,8 +95,6 @@ export default {
   },
   computed: {
     ...mapState({
-      currentUser: (state) => state.currentUser,
-      searched: (state) => state.searched,
       videoDisplayStyle: (state) => state.videoDisplayStyle,
       searchedVideos: (state) => state.searchedVideos
     }),

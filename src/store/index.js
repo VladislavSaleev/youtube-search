@@ -10,10 +10,10 @@ export default new Vuex.Store({
     users: usersData,
     currentUser: null,
     favorites: [],
-    searched: false,
+    isSearched: false,
     videoDisplayStyle: 'list',
     showModal: false,
-    modalForEdit: false,
+    isModalForEdit: false,
     currentQuery: '',
     currentName: '',
     currentOrder: '',
@@ -33,7 +33,7 @@ export default new Vuex.Store({
       localStorage.removeItem("currentUser")
     },
     updateFavorites(state, newItem) {
-      if (!state.favorites.find(el => el.id === newItem.id) && !state.modalForEdit) {
+      if (!state.favorites.find(el => el.id === newItem.id) && !state.isModalForEdit) {
         state.favorites.push(newItem)
         localStorage.setItem(state.currentUser.name, JSON.stringify(state.favorites))
       }
@@ -48,8 +48,8 @@ export default new Vuex.Store({
       state.favorites.splice(index, 1)
       localStorage.setItem(state.currentUser.name, JSON.stringify(state.favorites))
     },
-    updateSearched(state, newValue) {
-      state.searched = newValue
+    updateIsSearched(state, newValue) {
+      state.isSearched = newValue
     },
     updateVideoDisplayStyle(state, newValue) {
       state.videoDisplayStyle = newValue
@@ -57,8 +57,8 @@ export default new Vuex.Store({
     updateShowModal(state, newValue) {
       state.showModal = newValue
     },
-    updateModalForEdit(state, newValue) {
-      state.modalForEdit = newValue
+    updateIsModalForEdit(state, newValue) {
+      state.isModalForEdit = newValue
     },
     updateCurrentQuery(state, newValue) {
       state.currentQuery = newValue

@@ -2,18 +2,18 @@
   <div class="wrapper" v-if="currentUser">
     <el-row
       type="flex"
-      :justify="searched ? 'start' : 'center'"
-      :style="searched ? 'margin: 20px 0 20px;' : 'margin: 250px 0 20px'"
+      :justify="isSearched ? 'start' : 'center'"
+      :style="isSearched ? 'margin: 20px 0 20px;' : 'margin: 250px 0 20px'"
       class="search__title"
     >
       <el-col
         :span="4"
-        :style="searched ? 'text-align: start;' : 'text-align: center;'"
+        :style="isSearched ? 'text-align: start;' : 'text-align: center;'"
         ><h2>Поиск видео</h2></el-col
       >
     </el-row>
-    <el-row type="flex" :justify="searched ? 'start' : 'center'" :gutter="10">
-      <el-col :span="searched ? 21 : 13">
+    <el-row type="flex" :justify="isSearched ? 'start' : 'center'" :gutter="10">
+      <el-col :span="isSearched ? 21 : 13">
         <el-input
           placeholder="Что хотите посмотреть?"
           :value="currentQuery"
@@ -24,7 +24,7 @@
       <el-col :span="2"
         ><el-button @click="getVideos" type="primary">Найти</el-button>
       </el-col>
-      <el-col :span="1" v-if="searched">
+      <el-col :span="1" v-if="isSearched">
         <el-button
           @click="openModal"
           type="danger"
@@ -33,7 +33,7 @@
         ></el-button>
       </el-col>
     </el-row>
-    <div v-if="searched" class="content">
+    <div v-if="isSearched" class="content">
       <el-row type="flex" justify="space-around" class="content__header">
         <el-col :span="22" class="content__header__text">
           <h4>Видео по запросу: "{{ currentQuery.trim() }}"</h4>
@@ -73,7 +73,7 @@ export default {
   methods: {
     ...mapMutations([
       "updateFavorites",
-      "updateSearched",
+      "updateIsSearched",
       "updateVideoDisplayStyle",
       "updateShowModal",
       "updateCurrentQuery",
@@ -99,12 +99,12 @@ export default {
         );
         console.log(videos.data);
         this.updateSearchedVideos(videos.data);
-        this.updateSearched(true);
+        this.updateIsSearched(true);
       } catch (error) {
         this.$message.error(error.response.data.error.message);
       }
     },
-    //Открытие модалки для добавления запроса
+    //Открытие модалки для добавления запроса в избранное
     openModal() {
       if (this.currentQuery.trim() !== "") {
         this.updateCurrentQuery(this.currentQuery.trim());
@@ -113,14 +113,14 @@ export default {
         this.updateCurrentMaxResults(12);
         this.updateShowModal(true);
       } else {
-        this.$message.error('Запрос не может быть пустым.');
+        this.$message.error("Запрос не может быть пустым.");
       }
     },
   },
   computed: {
     ...mapState({
       currentUser: (state) => state.currentUser,
-      searched: (state) => state.searched,
+      isSearched: (state) => state.isSearched,
       currentQuery: (state) => state.currentQuery,
     }),
   },

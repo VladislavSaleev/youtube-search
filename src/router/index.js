@@ -1,23 +1,26 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Auth from '@/views/Auth'
-import Main from '@/views/Main'
-import Favorite from '@/views/Favorite'
+// import Auth from '@/views/Auth'
+// import Main from '@/views/Main'
+// import Favorite from '@/views/Favorite'
+function lazyLoad(view) {
+  return () => import(`@/views/${view}.vue`)
+}
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    component: Auth
+    component: lazyLoad("Auth")
   },
   {
     path: '/main',
-    component: Main
+    component: lazyLoad("Main")
   },
   {
     path: '/favorite',
-    component: Favorite
+    component: lazyLoad("Favorite")
   }
 ]
 

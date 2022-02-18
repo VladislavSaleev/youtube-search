@@ -46,7 +46,7 @@ export default {
   methods: {
     ...mapMutations([
       "updateShowModal",
-      "updateModalForEdit",
+      "updateIsModalForEdit",
       "updateFavorites",
       "updateCurrentQuery",
       "updateCurrentName",
@@ -55,7 +55,7 @@ export default {
       "updateCurrentId",
       "deleteCurrentFavorite",
       "updateSearchedVideos",
-      "updateSearched",
+      "updateIsSearched",
     ]),
     //Поиск видео по текущему запросу с заданными параметрами
     async getVideos(favorite) {
@@ -73,7 +73,7 @@ export default {
           }
         );
         this.updateSearchedVideos(videos.data);
-        this.updateSearched(true);
+        this.updateIsSearched(true);
         this.$router.push("/main");
       } catch (error) {
         this.$message.error(error.response.data.error.message);
@@ -86,7 +86,7 @@ export default {
       this.updateCurrentOrder(favorite.order);
       this.updateCurrentMaxResults(favorite.maxResults);
       this.updateCurrentId(favorite.id);
-      this.updateModalForEdit(true);
+      this.updateIsModalForEdit(true);
       this.updateShowModal(true);
     },
   },

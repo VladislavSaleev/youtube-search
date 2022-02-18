@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-dialog
-      :title="modalForEdit ? 'Изменить запрос' : 'Сохранить запрос'"
+      :title="isModalForEdit ? 'Изменить запрос' : 'Сохранить запрос'"
       :visible="showModal"
       width="30%"
       center
@@ -18,7 +18,7 @@
           <el-input
             :value="currentQuery"
             @input="updateCurrentQuery"
-            :disabled="!modalForEdit"
+            :disabled="!isModalForEdit"
           ></el-input>
         </el-form-item>
         <el-form-item label="Название">
@@ -65,7 +65,7 @@ export default {
   methods: {
     ...mapMutations([
       "updateShowModal",
-      "updateModalForEdit",
+      "updateIsModalForEdit",
       "updateFavorites",
       "updateCurrentQuery",
       "updateCurrentName",
@@ -86,26 +86,26 @@ export default {
       }
       //Условия для сохранения нового запроса
       if (
-        !this.modalForEdit &&
+        !this.isModalForEdit &&
         !this.favorites.find((el) => el.query === this.currentQuery)
       ) {
         newFavorite.id = Date.now();
         this.updateFavorites(newFavorite);
         this.updateShowModal(false);
-        this.updateModalForEdit(false);
+        this.updateIsModalForEdit(false);
         this.$message({
           message: "Поиск сохранен в избранное.",
           type: "success",
         });
-      } else if (!this.modalForEdit) {
+      } else if (!this.isModalForEdit) {
         this.$message(`Вы уже искали <${this.currentQuery}>`);
       }
       //Условия для редактирования существующего запроса
-      else if (this.modalForEdit) {
+      else if (this.isModalForEdit) {
         newFavorite.id = this.currentId;
         this.editCurrentFavorite(newFavorite);
         this.updateShowModal(false);
-        this.updateModalForEdit(false);
+        this.updateIsModalForEdit(false);
         this.$message({
           message: "Запрос поиска отредактирован.",
           type: "success",
@@ -114,13 +114,13 @@ export default {
     },
     cancelWithoutSave() {
       this.updateShowModal(false);
-      this.updateModalForEdit(false);
+      this.updateIsModalForEdit(false);
     },
   },
   computed: {
     ...mapState({
       showModal: (state) => state.showModal,
-      modalForEdit: (state) => state.modalForEdit,
+      isModalForEdit: (state) => state.isModalForEdit,
       currentQuery: (state) => state.currentQuery,
       currentName: (state) => state.currentName,
       currentOrder: (state) => state.currentOrder,
